@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 My attempt: 
 
-![image](https://user-images.githubusercontent.com/49210338/213599596-8273409d-1107-46c0-89a8-7b590235090a.png)
+![image](https://user-images.githubusercontent.com/49210338/213599986-0f18bea8-f06f-430e-83e3-51297dba67f5.png)
 
 Responsive (iPhone 12 Pro):
 
